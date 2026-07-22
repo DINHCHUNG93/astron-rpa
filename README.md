@@ -1,3 +1,36 @@
+
+
+
+6k ⭐️ Nền tảng RPA mã nguồn mở với 300 component kết hợp AI Agent giúp tự động hóa doanh nghiệp
+
+Nếu bạn đang tìm một giải pháp RPA (Robotic Process Automation) hiện đại, có thể kết hợp trực tiếp với AI Agent để tự động hóa quy trình làm việc thì AstronRPA là dự án rất đáng chú ý.
+
+Được phát triển bởi iFLYTEK, AstronRPA là nền tảng RPA mã nguồn mở dành cho doanh nghiệp với giao diện kéo thả trực quan, hỗ trợ low-code/no-code và tích hợp AI ngay từ kiến trúc.
+
+Điểm nổi bật
+
+* Thiết kế workflow bằng giao diện kéo thả, không cần viết nhiều code.
+* Tự động hóa cả ứng dụng Windows lẫn trình duyệt web.
+* Hơn 300 component dựng sẵn cho thao tác giao diện, dữ liệu, hệ thống và mạng.
+* Tích hợp AI Agent hai chiều: Agent có thể gọi workflow RPA và ngược lại.
+* Hỗ trợ MCP, API, Scheduler và Trigger để tự động chạy quy trình.
+* Triển khai nội bộ bằng Docker, phù hợp cho doanh nghiệp cần kiểm soát dữ liệu.
+* Kiến trúc mở với Electron, Vue 3, Spring Boot, FastAPI và Python Engine. 
+
+Ứng dụng thực tế
+
+* Tự động nhập liệu ERP, CRM, HRM.
+* Xử lý hóa đơn, Excel, Word, PDF.
+* Thu thập dữ liệu từ website.
+* Tự động gửi email và tạo báo cáo.
+* Đồng bộ dữ liệu giữa nhiều hệ thống.
+* Xây dựng AI Agent có khả năng thao tác trực tiếp trên máy tính thay vì chỉ trả lời hội thoại.
+* Tự động hóa quy trình văn phòng, tài chính, kế toán và chăm sóc khách hàng.
+
+Điểm đánh giá cao là AstronRPA không chỉ là một công cụ RPA truyền thống mà được xây dựng theo xu hướng Agent + Automation, nơi AI có thể lập kế hoạch và RPA chịu trách nhiệm thực thi trên desktop hoặc web. Đây là hướng phát triển rất phù hợp với các doanh nghiệp đang triển khai AI Agent trong
+
+
+
 # AstronRPA
 
 <div align="center">
